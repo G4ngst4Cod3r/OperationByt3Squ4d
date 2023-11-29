@@ -4,7 +4,7 @@ The Best hacker tool in the world
 
 [![Follow me](https://img.shields.io/github/followers/G4ngst4Cod3r?label=follow%20me&style=social)](https://github.com/G4ngst4Cod3r)
 [![Follow Twitter](https://img.shields.io/twitter/follow/ImDaHoodCoder?label=Follow%20me&style=social)](https://twitter.com/ImDaHoodCoder)
-![Discord](https://img.shields.io/discord/1134636183893332029)
+![Discord](https://img.shields.io/discord/1134636183893332029.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
 ## Notice
 > Work In Progress
 > Built in vpn will be premium
