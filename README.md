@@ -10,3 +10,7 @@
         |_|                                           |___/                     |_|                  
 ```
 The Best hacker tool in the world
+[![NPM version](https://img.shields.io/npm/v/ascii-art.svg)]()
+[![npm](https://img.shields.io/npm/dt/ascii-art.svg)]()
+[![Travis](https://img.shields.io/travis/khrome/ascii-art.svg)]()
+[![GitHub stars](https://img.shields.io/github/stars/khrome/ascii-art.svg?style=social&label=Star)](https://github.com/khrome/ascii-art)
