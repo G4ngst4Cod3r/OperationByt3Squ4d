@@ -1,16 +1,27 @@
-```goofy
-
-   ____                       _   _             ____        _   ____   _____             _  _      _ 
-  / __ \                     | | (_)           |  _ \      | | |___ \ / ____|           | || |    | |
- | |  | |_ __   ___ _ __ __ _| |_ _  ___  _ __ | |_) |_   _| |_  __) | (___   __ _ _   _| || |_ __| |
- | |  | | '_ \ / _ \ '__/ _` | __| |/ _ \| '_ \|  _ <| | | | __||__ < \___ \ / _` | | | |__   _/ _` |
- | |__| | |_) |  __/ | | (_| | |_| | (_) | | | | |_) | |_| | |_ ___) |____) | (_| | |_| |  | || (_| |
-  \____/| .__/ \___|_|  \__,_|\__|_|\___/|_| |_|____/ \__, |\__|____/|_____/ \__, |\__,_|  |_| \__,_|
-        | |                                            __/ |                    | |                  
-        |_|                                           |___/                     |_|                  
-```
+# OperationByt3Squ4d
 The Best hacker tool in the world
+
 
 [![Follow me](https://img.shields.io/github/followers/G4ngst4Cod3r?label=follow%20me&style=social)](https://github.com/G4ngst4Cod3r)
 [![Follow Twitter](https://img.shields.io/twitter/follow/ImDaHoodCoder?label=Follow%20me&style=social)](https://twitter.com/ImDaHoodCoder)
 [![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/JnETygUHSh)
+## Notice
+> Work In Progress
+> Built in vpn will be premium
+
+# Compile Source
+Coming Soon
+
+# Features
+1. Vpn
+   - There will be a vpn built in but it is a vip option
+2. DDOS
+   - This will not just flood but kill the entire network
+3. Discord Login Hacks
+   - you can hack a person you dont like
+4. You can Also bot accounts
+   - you can create a bot account for any service
+5. Ai Aimbot Maker
+   - You Can Make a aimbot script from ai for any game
+6. ModMenu Creator
+   - lets you create a mod menu for any game
