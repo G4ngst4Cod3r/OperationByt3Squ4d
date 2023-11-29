@@ -10,7 +10,6 @@
         |_|                                           |___/                     |_|                  
 ```
 The Best hacker tool in the world
-[![NPM version](https://img.shields.io/npm/v/ascii-art.svg)]()
-[![npm](https://img.shields.io/npm/dt/ascii-art.svg)]()
-[![Travis](https://img.shields.io/travis/khrome/ascii-art.svg)]()
-[![GitHub stars](https://img.shields.io/github/stars/khrome/ascii-art.svg?style=social&label=Star)](https://github.com/khrome/ascii-art)
+[![Follow me](https://img.shields.io/github/followers/G4ngst4Cod3r?label=follow%20me&style=social)](https://github.com/G4ngst4Cod3r)
+[![Follow Twitter](https://img.shields.io/twitter/follow/ImDaHoodCoder?label=Follow%20me&style=social)](https://twitter.com/ImDaHoodCoder)
+[![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/JnETygUHSh)
